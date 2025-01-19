@@ -41,19 +41,19 @@ Here’s a glimpse of some of the projects I’m most proud of:
 
 - **🌐 Portfolio Website**  
   My personal portfolio showcasing my skills, projects, and professional journey.  
-  [Live Demo](https://edilayehu.com) | [Source Code](https://github.com/edilayehu/portfolio)
+  [Live Demo](https://edilayehu.com) | [Source Code](https://github.com/Edil-Ayehu/my_portfolio_website)
 
 - **📱 E-Commerce App**  
   A full-featured e-commerce platform with light/dark modes, multi-language support, and secure payment integration.  
-  [Source Code](https://github.com/edilayehu/ecommerce-app)
+  [Source Code](https://github.com/Edil-Ayehu/multi_vendor_ecommerce_app)
 
 - **📅 Collaborative Task Manager**  
   A Flutter and Firebase-powered app designed for team task management and collaboration.  
-  [Source Code](https://github.com/edilayehu/task-manager)
+  [Source Code](https://github.com/Edil-Ayehu/collab_app)
 
 - **💬 Dating App**  
   A beautifully crafted app with real-time chat, matching algorithms, and user-friendly UI.  
-  [Source Code](https://github.com/edilayehu/dating-app)
+  [Source Code](https://github.com/Edil-Ayehu/dating-app)
 
 ---
 
