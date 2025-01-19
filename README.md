@@ -12,10 +12,7 @@ Hello there! I'm **Edilayehu**, a passionate and result-driven **Mobile App and 
   I'm a developer who loves solving complex problems with creative and efficient code. From scalable **mobile apps** to dynamic **web applications**, I focus on delivering solutions that are both functional and visually appealing.
 
 - 🌱 **Currently Exploring**  
-  Advancing my skills in **advanced Flutter** features, state management with **Provider/GetX**, and cloud integration using **Firebase**.
-
-- 🎥 **On YouTube**  
-  I share **speed coding projects** and tutorials on **Flutter development**. My channel is where I bring ideas to life in record time. Check it out: [YouTube Channel](https://youtube.com/channel/...).
+  Advancing my skills in **advanced Flutter** features, state management with **Provider/GetX/Bloc**, and cloud integration using **Firebase**.
 
 - ✨ **Passion Projects**  
   - **E-Commerce Apps** with dark/light mode, localization, and real-time updates.  
@@ -62,8 +59,8 @@ Here’s a glimpse of some of the projects I’m most proud of:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edilayehu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edilayehu&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edil-Ayehu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edil-Ayehu&layout=compact&theme=radical)
 
 ---
 
@@ -72,9 +69,7 @@ Here’s a glimpse of some of the projects I’m most proud of:
 I'm always open to collaborating on exciting projects, sharing knowledge, or simply discussing technology. Feel free to reach out:
 
 - 🌐 **Portfolio**: [edilayehu.com](https://edilayehu.com)  
-- 📧 **Email**: [edil2@edilayehu.com](mailto:edil2@edilayehu.com)  
-- 🎥 **YouTube**: [Speed Coding Projects](https://youtube.com/channel/...)  
-- 🐦 **Twitter**: [@edilayehu](https://twitter.com/edilayehu)
+- 📧 **Email**: [tadesseedilayehu@gmail.com](mailto:tadesseedilayehu@gmail.com)  
 
 ---
 
